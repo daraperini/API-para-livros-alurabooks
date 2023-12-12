@@ -1,6 +1,6 @@
 # API for Alura Books
 
-This project was created during Alura's class *JavaScript: array methods*. I received the [Alura Books](https://github.com/daraperini/learning-html-css-alurabooks) inspired layout and used an external API that contains books in stock to add to the page. Using array methods I manipulated their price, created filters and products ordering and used JavaScript to manipulate the DOM.
+This project was created during Alura's class *JavaScript: array methods*. I received the [Alura Books](https://github.com/daraperini/learning-html-css-alurabooks) inspired layout and used an external API that contains books in stock to add to the page. Using array methods I manipulated their price, created filters and order products and used JavaScript to manipulate the DOM.
 
 To see the final result, click [here](https://api-para-livros-alurabooks.vercel.app/).
 
